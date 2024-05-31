@@ -8,7 +8,7 @@ import java.sql.DriverManager;
 public class MySqlConnectionMaker implements ConnectionMaker {
     private final String URL = "jdbc:mysql://localhost:3306/board";
     private final String USERNAME = "root";
-    private final String PASSWORD = "1234";
+    private final String PASSWORD = "ss4161813!";
     private final String DRIVER = "com.mysql.cj.jdbc.Driver";
 
     @Override
